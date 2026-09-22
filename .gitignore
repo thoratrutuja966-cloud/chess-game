@@ -1,0 +1,11 @@
+# Java compilation output
+*.class
+
+# IDE settings
+.vscode/
+.idea/
+*.iml
+
+# Operating-system files
+.DS_Store
+Thumbs.db
